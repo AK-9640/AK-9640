@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competetive Programming, Digital Art, Game Dev, Web Dev, Deep Learning
 - 🌱 I’m use C++, python, JS, Krita
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me .... akhilmunaganti@iitbbs.ac.in
+- 📫 How to reach me .... 20cs01046@iitbbs.ac.in
 
 <!---
 AK-9640/AK-9640 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
