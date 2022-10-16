@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akhil-9640
-- 👀 I’m interested in Competetive Programming, Digital Art, Game Dev, Web Dev, Deep Learning, Computer Vision.
+- 👀 I’m interested in Competetive Programming, Digital Art, Web Dev, Deep Learning, Computer Vision.
 - 🌱 I’m use C++, python, JS, Krita
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me .... 20cs01046@iitbbs.ac.in
